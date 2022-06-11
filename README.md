@@ -1,2 +1,2 @@
-# Link
+# Linear List 
 LinkList&amp;LinkQueue
